@@ -1,4 +1,4 @@
-Enhanced Weapon Reloading is a mod for GTA IV that makes the character actually pull out the magazine and stick a new one in the gun. Like in GTA V.  
+VAmbience is a mod for GTA IV that adds the ambience sounds from GTA V to IV like when sportcars drive away in the distance in V.
   
 ## How to Contribute
 ⚠ You will need Zolika's ASI scripting base in order to contribute on this mod.  
