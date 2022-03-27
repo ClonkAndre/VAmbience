@@ -1,5 +1,10 @@
-VAmbience is a mod for GTA IV that adds the ambience sounds from GTA V to IV like when sportcars drive away in the distance in V.
-  
+VAmbience is a mod that gives GTA IV some more ambient sounds!  
+
+## Other links
+[GTAforums](https://www.google.com/)
+[GTAinside](https://www.google.com/)
+[LCPDFR](https://www.google.com/)
+
 ## How to Contribute
 ⚠ This project was built using a private SDK.  
 If you want to contribute on this project, it is recommended to use the Open-Source [IV-SDK](https://github.com/Zolika1351/iv-sdk).  
