@@ -2,7 +2,7 @@ VAmbience is a mod that gives GTA IV some more ambient sounds!
 
 ## Other links
 [GTAforums](https://gtaforums.com/topic/981402-vambience/)  
-[GTAinside](https://www.google.com/)  
+[GTAinside](https://www.gtainside.com/gta4/mods/176514-vambience/)  
 [LCPDFR](https://www.lcpdfr.com/downloads/gta4mods/audio/39072-vambience/)
 
 ## How to Contribute
